@@ -1,2 +1,2 @@
-# My-multilingual-learning
-speakhub , Japanese and English and so on
+# My-Japanese-learning
+日常読書　日常会話　日常書き
