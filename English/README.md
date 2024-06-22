@@ -1,2 +1,4 @@
-# My-multilingual-learning
-speakhub , Japanese and English and so on
+# My-English-learning
+DailySpenking
+DailyReading
+Dailywriting
