@@ -1,6 +1,6 @@
 # My-English-learning
-- DailySpenking
-- DailyReading
+# Daily
+- DailySpeaking
 - Dailywriting
-- grammar
-- vocublary
+
+# IT English
