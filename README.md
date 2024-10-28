@@ -1,2 +1,2 @@
 # My-multilingual-learning
-speakhub , Japanese and English and so on
+speakhub , Japanese and English and IT-related qualifications learning
